@@ -1,0 +1,1 @@
+(function(){$(".btn").click(function(){$(".tanchuang").addClass("xs")});$("#gb").click(function(){$(".tanchuang").removeClass("xs")})})();
